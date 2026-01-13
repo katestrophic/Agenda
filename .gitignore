@@ -1,0 +1,89 @@
+# --- PROJECT FILES AND FOLDERS --- #
+app/release/output.json
+.idea/codeStyles/
+
+# Build Artifacts
+*.aab
+*.aar
+*.ap_
+*.apk
+*.dex
+*.log
+*.class
+gen/
+bin/
+out/
+release/
+production/
+
+# Gradle
+build/
+.gradle/
+
+# Kotlin
+.kotlin/
+
+# Local Config
+local.properties
+
+
+
+
+# --- SECURITY --- #
+*.jdks
+*.keystore
+
+# Google Services
+google-services.json
+/app/src/release/res/values/google_maps_api.xml
+
+
+
+# --- IDE SETTINGS --- #
+# Android Studio (IntelleJ)
+.cxx
+*.iws
+*.iml
+*.ipr
+.externalNativeBuild
+
+.idea/
+captures/
+.navigation/
+
+
+# Eclipse
+proguard/
+/app/proguard-rules.pro
+
+# VS Code
+.vscode/
+
+
+
+# --- OS-SPECIFIC FILES --- #
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+.directory
+
+
+
+# --- EXCEPTIONS --- #
+# Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Project
+!**/src/main/**/out/
+!**/src/test/**/out/
+!**/src/main/**/build/
+!**/src/test/**/build/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# --- - ---
