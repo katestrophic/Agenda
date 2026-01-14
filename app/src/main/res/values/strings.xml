@@ -1,0 +1,7 @@
+<!-- User-Facing string constants -->
+<resources>
+    <!-- APP -->
+    <string name="App.NAME">Agenda</string>
+    <string name="App.VERSION">1.0.0</string>
+
+</resources>
