@@ -1,11 +1,16 @@
 package katestrophic.agenda.core;
 
+
 import android.content.Context;
 import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import androidx.room.TypeConverters;
 
+import katestrophic.agenda.entities.SectionDao;
+import katestrophic.agenda.entities.SectionEntity;
+import katestrophic.agenda.entities.UserDao;
+import katestrophic.agenda.entities.UserProfile;
 import katestrophic.agenda.utils.Constants;
 import katestrophic.agenda.entities.Converter;
 
