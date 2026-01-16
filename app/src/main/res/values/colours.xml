@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Rainbow Soft -->
+    <color name="RAA_SoftRed">#ED5C5C</color>
+    <color name="RAB_Orage">#EE873E</color>
+    <color name="RAC_Mustard">#E6B64F</color>
+    <color name="RAE_EasterYellow">#F5E474</color>
+    <color name="RAF_PaleYellow">#FFF7AD</color>
+    <color name="RAG_MintyGreen">#AAF2C8</color>
+    <color name="RAH_Blu">#68B3FF</color>
+    <color name="RAI_SolidBlue">#5283E4</color>>
+    <color name="RAJ_SolidPurple">#8D7EE8</color>
+    <color name="RAK_PinkishPurple">#CD8FF4</color>
+
+    <!-- Other -->
+    <color name="RBA_PeachPink">#EA85B0</color>
+    <color name="RBB_GentleBlue">#7EB3E8</color>
+    <color name="R">#97264C</color>
+
+    <color name="PalidOrange">#E3A061</color>
+    <color name="RAB_Coralish">#E56E52</color>
+    <color name="E1A6E9">#E1A6E9</color>
+    <color name="E18BEF">#E18BEF</color>
+    <color name="IntenseRoange">#ED2B2B</color>
+
+    <color name="Bl">#63A0E8</color>
+    <color name="AHappyYellow">#EFCC09</color>
+    <color name="IslandBlue">#03B8E1</color>
+    <color name="A7EB3E8">#7EB3E8</color>
+    <color name="ColdBlue">#6283B8</color>
+    <color name="G">#4ABD77</color>
+    <color name="DullGreen">#25935F</color>
+    <color name="DeepBlue">#2a419c</color>
+    <color name="OBlue">#0C68A8</color>
+    <color name="APorple">#7550C1</color>
+    <color name="VibrantOrange">#d64b0d</color>
+    <color name="Gre">#08d195</color>
+    <color name="NicePink">#E772C6</color>
+    <color name="EBlue">#31e0fc</color>
+    <color name="HighlighterOrange">#f5a331</color>
+    <color name="SubtleGreenGray">#B07AE3FF</color>
+    <color name="SoPurple">#5619FF</color>
+    <color name="BBlie">#68CDFF</color>
+    <color name="Bley">#B9B7C8FF</color>
+    <color name="DeepDarkPurple">#1b1047</color>
+    <color name="Bleww">#046ce9</color>
+    <color name="Greenie">#18b963</color>
+</resources>
