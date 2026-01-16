@@ -1,9 +1,10 @@
-package katestrophic.agenda.utils;
+package katestrophic.agenda.managers;
 
 import android.content.Context;
 import java.io.File;
-import java.util.ArrayList;
+
 import katestrophic.agenda.entities.SectionEntity;
+import katestrophic.agenda.utils.Constants;
 
 public class FileManager {
     private final File userRoot;

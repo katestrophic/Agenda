@@ -1,4 +1,4 @@
-package katestrophic.agenda.utils;
+package katestrophic.agenda.entities;
 
 import androidx.room.TypeConverter;
 import java.util.ArrayList;
